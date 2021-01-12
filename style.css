@@ -10,28 +10,3 @@
   margin: 0;
   padding: 0;
 }
-
-.nav_links li {
-  font-size: 16px;
-  list-style: none;
-  text-decoration: none;
-  display: inline-block;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 10px 0 10px;
-  overflow: hidden;
-  position: fixed;
-}
-
-#img_header {
-  width: 70px;
-  height: 70px;
-}
-
-body {
-  line-height: 1.3;
-}
